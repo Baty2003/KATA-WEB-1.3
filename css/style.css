@@ -280,14 +280,13 @@ html {
 
 .slider__button {
 	flex-shrink: 0;
-	padding: 5px 5px;
-	margin-right: 25px;
+	padding: 5px 15px;
+	margin-right: 5px;
 	margin-top: 5px;
 	background: transparent;
 	border: 0;
 }
 .slider-button--selected{
-	padding: 5px 15px;
 	border: 2px solid #b8ffec;
 	border-radius: 5px;
 	background: #fff;
